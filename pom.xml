@@ -19,8 +19,6 @@
         <maven.compiler.target>17</maven.compiler.target>
         <sonar.projectKey>marcado993_construccion-deber1_d2e3d238-618a-44be-ac35-185a71735a75</sonar.projectKey>
         <sonar.projectName>construccion-deber1</sonar.projectName>
-        <sonar.host.url>https://87244c2b3cfc.ngrok-free.app</sonar.host.url>
-        <sonar.token>sqp_1b37c2357a82d1f82cc7a8d8ff3ad299719542ca</sonar.token>
         <sonar.sources>src</sonar.sources>
         <sonar.java.binaries>target/classes</sonar.java.binaries>
     </properties>
