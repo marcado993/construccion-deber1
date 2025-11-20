@@ -1,3 +1,4 @@
+package triage;
 public class Enfermedad {
     private String tipoEnfermedad;
     private String formaContagio;

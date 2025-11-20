@@ -1,3 +1,4 @@
+package triage;
 public class Doctor {
 
     private String nombreDoc;

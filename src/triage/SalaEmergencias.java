@@ -1,3 +1,4 @@
+package triage;
 public class SalaEmergencias {
     private Doctor doctor;
     private Enfermero enfermero;

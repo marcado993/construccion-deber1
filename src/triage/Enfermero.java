@@ -1,3 +1,4 @@
+package triage;
 public class Enfermero {
     private String nombreEnf;
     private String cedula;
