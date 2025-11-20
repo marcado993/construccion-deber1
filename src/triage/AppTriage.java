@@ -4,12 +4,11 @@ import java.util.Locale;
 
 public class AppTriage {
     
-    private static int contadorGlobal = 0;
+    // Removed unused contadorGlobal field to satisfy code quality rules
     
     public static void main(String[] args){
     Scanner sc = new Scanner(System.in);
     sc.useLocale(Locale.ENGLISH);
-    contadorGlobal++;
         Doctor dc1;
         dc1 = new Doctor("Christian Aguilar","General","1728939001",2,10);
         Doctor dc2;

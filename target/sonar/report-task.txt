@@ -1,0 +1,6 @@
+projectKey=marcado993_construccion-deber1_8143d379-7c8c-4457-8029-bffd7ef1ffe9
+serverUrl=https://4ae0033cb839.ngrok-free.app
+serverVersion=25.11.0.114957
+dashboardUrl=https://4ae0033cb839.ngrok-free.app/dashboard?id=marcado993_construccion-deber1_8143d379-7c8c-4457-8029-bffd7ef1ffe9
+ceTaskId=6c6d0c3c-9c2c-46fb-b917-de58db8651d3
+ceTaskUrl=https://4ae0033cb839.ngrok-free.app/api/ce/task?id=6c6d0c3c-9c2c-46fb-b917-de58db8651d3

@@ -37,7 +37,7 @@ public class Enfermero {
     }
 
     public String imprimirEnfermero(){
-        return String.format("El enfermero %s con cedula %s con el %s turno"
+        return String.format("El enfermero %s con cedula %s con el turno %d"
                 ,this.nombreEnf,this.cedula,this.turnoEnf);
     }
 }
