@@ -2,10 +2,11 @@ package triage;
 public class Helper {
 
     private Helper() {
-        throw new IllegalStateException("Utility class");
+        // Prevent instantiation
     }
 
-    public static final String estadoGlobal = "OK";
+    // Constant names should be in upper case with underscores per conventions
+    public static final String ESTADO_GLOBAL = "OK";
 
     public static int metodoConfuso(){
         int resultado = 0;
